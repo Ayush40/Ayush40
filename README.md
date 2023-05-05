@@ -1,4 +1,4 @@
-<h1 align="center">Welcome I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Hello, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <p><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=1976d2&size=35&center=true&vCenter=true&width=600&height=35&lines=Ayush+Aggarwal..&hearts;++;Android+Developer,;Learning%20Flutter,;WebDEV+Newbie,;Active+Learner.."></p>
 </h1>
 
@@ -47,3 +47,25 @@
 
 </a>
 </div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center"><img alt="shinchan" align="center" height="50px" width="50px" src="https://media1.giphy.com/media/eNvPo1OAXVpZsSIUXU/giphy.gif?cid=6c09b952ethuniw6991gxumaegdigytnytcop1hiikx3h24j&ep=v1_stickers_related&rid=giphy.gif&ct=s"/>Let's Connect:<img alt="shinchan" align="center" height="50px" width="50px" src="https://media1.giphy.com/media/eNvPo1OAXVpZsSIUXU/giphy.gif?cid=6c09b952ethuniw6991gxumaegdigytnytcop1hiikx3h24j&ep=v1_stickers_related&rid=giphy.gif&ct=s"/></h2>
+
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/ayush-aggarwal-2400b4234/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+<li>
+<a href="mailto:ayushaggarwal42003@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+
+</a>
+</li>
