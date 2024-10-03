@@ -5,7 +5,7 @@
 ## <picture><img src = "https://user-images.githubusercontent.com/100126332/236436801-6c9152c5-e49d-435e-a290-a8ff20e7be99.gif" width = 40px height=auto></picture> **About me**
 <picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width = 210px></picture>
  <br>
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Software Developer**
 
 - 💬 Ask me about web Development or any tech-related stuff.
       
