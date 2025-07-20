@@ -9,7 +9,6 @@
 ---
 
 ## 🧠 About Me  
-<img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width="200"/>
 
 - 🌱 Currently exploring Full Stack Development & DevOps  
 - 🤝 Looking to collaborate on GitHub projects  
