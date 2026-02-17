@@ -31,12 +31,12 @@ I am a results-driven **Software Engineer** specializing in building modern web 
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush40&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush40&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush40&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayush40&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush40&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush40&theme=tokyonight" height="180"/>
 </div>
 
 ---
